@@ -4,7 +4,7 @@
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title>
-            Lucky
+            Sreten
           </v-list-item-title>
           <v-list-item-subtitle>
             MEVN Full Stack App
